@@ -28,22 +28,22 @@ const useLocalStorage = (key, initialValue) => {
 // Sample data for testing
 const sampleData = {
   personalInfo: {
-    fullName: 'John Smith',
-    email: 'john.smith@email.com',
-    phone: '+1 (555) 123-4567',
-    address: 'New York, NY',
-    linkedin: 'linkedin.com/in/johnsmith',
-    summary: 'Experienced software developer with 5+ years in full-stack development, passionate about creating efficient and scalable solutions.'
+    fullName: 'Manideep Katkam',
+    email: 'manideepkatkam83@gmail.com',
+    phone: '+919666436747',
+    address: 'Hyderabad, India',
+    linkedin: 'www.linkedin.com/in/manideepkatkam',
+    summary: 'Creative and detail-oriented Frontend Developer with hands-on experience in building responsive, user-friendly, and high-performance web applications. Proficient in HTML, CSS, JavaScript, React.js, and modern frontend frameworks, with a strong focus on clean UI/UX design and cross-browser compatibility. Skilled in integrating APIs, optimizing performance, and applying version control using Git/GitHub. Experienced in deploying projects on platforms like Vercel, Netlify, and Render. Adept at problem-solving, collaborating in team environments, and continuously learning new technologies to deliver scalable solutions.'
   },
   education: [
     {
       id: '1',
       degree: 'Bachelor of Science in Computer Science',
       institution: 'University of Technology',
-      location: 'New York, NY',
-      startDate: '2018',
-      endDate: '2022',
-      gpa: '3.8/4.0'
+      location: 'Hyderabad, India',
+      startDate: '2021',
+      endDate: '2025',
+      gpa: '9.0'
     }
   ],
   experience: [
@@ -51,7 +51,7 @@ const sampleData = {
       id: '1',
       title: 'Senior Software Developer',
       company: 'Tech Solutions Inc.',
-      location: 'New York, NY',
+      location: 'Hyderabad, India',
       startDate: '2022',
       endDate: 'Present',
       responsibilities: [
