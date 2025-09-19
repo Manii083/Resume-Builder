@@ -3,12 +3,13 @@ A modern, responsive React-based resume builder that allows users to create prof
 
 <img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/49949d12-093d-4cae-8d85-affdb555910a" />
 
+
 You can access the site by this link: https://resume-builder-1ep8.onrender.com/, deployed on render
 
 🚀 Installation Methods
 Choose one of the following methods:
 
-Method 1: Clone from GitHub 
+Clone from GitHub/Download zip file
 Step 1: Clone the Repository
 
 Step 2: Install Dependencies
