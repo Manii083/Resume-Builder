@@ -9,7 +9,7 @@ You can access the site by this link: https://resume-builder-1ep8.onrender.com/,
 🚀 Installation Methods
 Choose one of the following methods:
 
-Clone from GitHub/Download zip file
+Clone from GitHub/Download zip file...
 Step 1: Clone the Repository
 
 Step 2: Install Dependencies
