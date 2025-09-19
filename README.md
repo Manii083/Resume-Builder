@@ -1,13 +1,27 @@
-# React + Vite
+📄 Resume Builder
+A modern, responsive React-based resume builder that allows users to create professional resumes with real-time preview, multiple templates, and PDF export functionality.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 <img width="959" height="475" alt="image" src="https://github.com/user-attachments/assets/49949d12-093d-4cae-8d85-affdb555910a" />
+
+You can access the site by this link: https://resume-builder-1ep8.onrender.com/, deployed on render
+
+🚀 Installation Methods
+Choose one of the following methods:
+
+Method 1: Clone from GitHub 
+Step 1: Clone the Repository
+
+Step 2: Install Dependencies
+Install all required packages
+
+npm install
+
+Step 3: Start the Application
+Start the development server
+
+npm start
+
+Step 4: Open in Browser
+
+Automatically opens at http://localhost:3000
+If not, manually open your browser and navigate to the URL
